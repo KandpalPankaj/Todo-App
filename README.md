@@ -5,19 +5,17 @@ In this project you will get only 3 data in a single network call and for next d
 
 
 -  **Initial empty app**
-> ![Screenshot (1177).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647446143121/9JfiPh4kP.png)
+> ![Screenshot (1177).png](https://i.imgur.com/pA6GRCG.png)
 
 
 - **Pagination over 3 items**
-> ![Screenshot (1178).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647446196412/7H59EFp65.png)
-> ![Screenshot (1181).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647446205119/-9E7ptkmD.png)
+> ![Screenshot (1178).png](https://i.imgur.com/J5dJWf8.png)
 
 
 - **Delete**
 > 
-![Screenshot (1179).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647446309700/OlaFCTa_U.png)
-> 
-![Screenshot (1180).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647446319947/hDc-fDh0J.png)
+![Screenshot (1179).png](https://i.imgur.com/xfA40Ah.png)
+
 
 
 
